@@ -3,7 +3,7 @@
   - block chain
 - 🌱 I’m currently learning 
   - golang
-  - ml
+  - web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   - Wechat: 864451000
